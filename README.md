@@ -1,3 +1,9 @@
+This repository was created to run the UC Berkeley AUTOLAB's Dex-net Package on the Docker. \
+This is not official support from UC Berkeley AUTOLAB. \
+If you want to see the original code of Dex-net Package, go here https://github.com/BerkeleyAutomation/dex-net. \
+If you want to build or pull the Docker image for running Dex-net package, go here https://github.com/ssw0536/dex-net-docker.
+
+
 # Berkeley AUTOLAB's Dex-Net Package
 
 ## Links
